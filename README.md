@@ -1,4 +1,4 @@
-### Hi there 👋
+### ASSALAMU WALAIKUM 👋
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mazid_chowdhury_) 
@@ -22,5 +22,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DARK-TOXIC&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee
+ 
